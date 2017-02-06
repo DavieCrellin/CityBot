@@ -1,2 +1,2 @@
 # CityBot
-A bot providing information on UK Cities
+A bot which provides informantion on cities in the UK
